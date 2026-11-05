@@ -60,13 +60,25 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <sub>VOL. III &nbsp;·&nbsp; NIX</sub>
-      <h3><a href="https://github.com/hucils/Nova-Flake">Nova-Flake</a></h3>
+      <h3><a href="https://github.com/hucils/Nova-Flake">Nova Flake</a></h3>
       <i>A personal NixOS configuration<br />built on ChromaShell-Flake and Caelestia.</i>
     </td>
     <td width="50%" align="center" valign="top">
       <sub>VOL. IV &nbsp;·&nbsp; VARIOUS</sub>
-      <h3><a href="https://github.com/hucils/Cursed-Programming">Cursed-Programming</a></h3>
+      <h3><a href="https://github.com/hucils/Cursed-Programming">Cursed Programming</a></h3>
       <i>A curiosity cabinet of dreadful code,<br />from JavaScript to esoteric languages.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <sub>VOL. V &nbsp;·&nbsp; SWIFT</sub>
+      <h3><a href="https://github.com/hucils/Blackjack-Bot">Blackjack Bot</a></h3>
+      <i>A simple blackjack bot to learn<br />card counting and play against.</i>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <sub>VOL. VI &nbsp;·&nbsp; SWIFT</sub>
+      <h3><a href="https://github.com/hucils/Fox-Calculator">Fox Calculator</a></h3>
+      <i>Fox Calculator is a small project<br /> I made to try and learn Swift.</i>
     </td>
   </tr>
 </table>
