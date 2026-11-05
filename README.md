@@ -42,7 +42,45 @@
 
 <p>❦</p>
 
-<h2>II. Early Works</h2>
+<h2>II. Current Works</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <sub>VOL. I &nbsp;·&nbsp; TYPESCRIPT</sub>
+      <h3><a href="https://github.com/hucils/VoiceBloom">VoiceBloom</a></h3>
+      <i>An offline, private and self-hosted<br />voice training studio for transgender women.</i>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <sub>VOL. II &nbsp;·&nbsp; PYTHON</sub>
+      <h3><a href="https://github.com/hucils/hootlearn">hootlearn</a></h3>
+      <i>Turns any git repository into a step-by-step lesson<br />that teaches you to rebuild it yourself.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <sub>VOL. III &nbsp;·&nbsp; PYTHON</sub>
+      <h3><a href="https://github.com/hucils/Roombacalypse">Roombacalypse</a></h3>
+      <i>An unnecessarily overengineered simulator<br />of autonomous robotic vacuums.</i>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <sub>VOL. IV &nbsp;·&nbsp; C++</sub>
+      <h3><a href="https://github.com/hucils/KV-1">KV-1</a></h3>
+      <i>A small tank, built and driven<br />on the ESP32 microcontroller.</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <sub>VOL. V &nbsp;·&nbsp; PYTHON</sub>
+      <h3><a href="https://github.com/hucils/paperoo">paperoo</a></h3>
+      <i>A script for browsing and collecting wallpapers.</i>
+    </td>
+  </tr>
+</table>
+
+<p>❦</p>
+
+<h2>III. Early Works</h2>
 
 <table align="center">
   <tr>
@@ -60,12 +98,12 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <sub>VOL. III &nbsp;·&nbsp; NIX</sub>
-      <h3><a href="https://github.com/hucils/Nova-Flake">Nova Flake</a></h3>
+      <h3><a href="https://github.com/hucils/Nova-Flake">Nova-Flake</a></h3>
       <i>A personal NixOS configuration<br />built on ChromaShell-Flake and Caelestia.</i>
     </td>
     <td width="50%" align="center" valign="top">
       <sub>VOL. IV &nbsp;·&nbsp; VARIOUS</sub>
-      <h3><a href="https://github.com/hucils/Cursed-Programming">Cursed Programming</a></h3>
+      <h3><a href="https://github.com/hucils/Cursed-Programming">Cursed-Programming</a></h3>
       <i>A curiosity cabinet of dreadful code,<br />from JavaScript to esoteric languages.</i>
     </td>
   </tr>
@@ -85,7 +123,7 @@
 
 <p>❦</p>
 
-<h2>III. Languages &amp; Instruments</h2>
+<h2>IV. Languages &amp; Instruments</h2>
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,rust,cpp,swift,lua,nix,html,linux,arduino&theme=dark&perline=11" alt="languages and tools" />
 
