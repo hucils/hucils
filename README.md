@@ -23,7 +23,7 @@
 
 <p>
   I am an autistic trans woman with a particular fondness for artificial intelligence<br />
-  and for the slightly improvisational craft of <i>vibe coding</i>:<br />
+  and for the slightly improvisational craft of <i>AI-assisted coding</i>:<br />
   letting curiosity set the course and rigour follow close behind.
 </p>
 
